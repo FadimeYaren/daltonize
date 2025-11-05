@@ -1,3 +1,7 @@
+# This repo is related with my paper, Image Enhancement For Color Blindness [oku]([https://github.com/FadimeYaren](https://fadimeyaren.github.io/blog/ImageEnhancementForColorBlindness.html)) , It simulates and enhances the image for color vision deficiencies.
+
+
+
 # Daltonize
 
 ![https://github.com/joergdietrich/daltonize/actions](https://img.shields.io/github/actions/workflow/status/joergdietrich/daltonize/main.yml)  ![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/joergdietrich/9deb619232c8098b5e15d259ef5ed534/raw/covbadge.json)
