@@ -1,5 +1,5 @@
-# This repo is related with my paper, Image Enhancement For Color Blindness [oku]([https://github.com/FadimeYaren](https://fadimeyaren.github.io/blog/ImageEnhancementForColorBlindness.html)) , It simulates and enhances the image for color vision deficiencies.
-
+# This repo is related with my paper, It simulates and enhances the image for color vision deficiencies.
+Image Enhancement For Color Blindness [oku]([https://github.com/FadimeYaren](https://fadimeyaren.github.io/blog/ImageEnhancementForColorBlindness.html))
 
 
 # Daltonize
