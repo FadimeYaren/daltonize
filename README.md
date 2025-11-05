@@ -1,5 +1,5 @@
 # This repo is related with my paper, It simulates and enhances the image for color vision deficiencies.
-Image Enhancement For Color Blindness [Ziyaret Et]([https://fadimeyaren.github.io/blog/ImageEnhancementForColorBlindness.html])
+Image Enhancement For Color Blindness [Ziyaret Et](https://fadimeyaren.github.io/blog/ImageEnhancementForColorBlindness.html)
 
 
 # Daltonize
